@@ -153,6 +153,6 @@ Personel listesi, detay görünümleri, düzenleme formları ve iş atamaları.
 
 ---
 
-**Proje Tarihi:** Ocak 2025  
+**Proje Tarihi:** Mayız 2026
 **Durum:** Aktif Kullanımda 🟢  
 **Lisans:** MIT
